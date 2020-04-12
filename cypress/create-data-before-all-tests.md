@@ -39,8 +39,7 @@ before(() => {
 *spec.js* 
 
 ```
-    const data = Cypress.env('savedData');
-    cy.log(data);
+    cy.log(Cypress.env('savedData'));
 ```
 
 ...
