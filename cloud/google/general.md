@@ -1,0 +1,2 @@
+- Google Cloud Cheat Sheet: https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf
+- Google Cloud Source Repos: https://cloud.google.com/sdk/gcloud/reference/source/repos
